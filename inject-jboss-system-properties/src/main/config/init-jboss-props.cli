@@ -1,0 +1,2 @@
+/system-property=example.foo:add(value="Special Foo Value")
+/system-property=example.bar:add(value="Why is Foo so special?")

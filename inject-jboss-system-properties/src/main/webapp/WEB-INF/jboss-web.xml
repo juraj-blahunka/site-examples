@@ -1,0 +1,3 @@
+<jboss-web>
+	<context-root>inject-jboss-system-properties</context-root>
+</jboss-web>
